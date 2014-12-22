@@ -1,0 +1,15 @@
+{
+  "name": "jquery-transmate",
+  "version": "0.0.1", 
+  "main": "dist/transmate.min.js", 
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "arian-css-matrix": "https://github.com/arian/CSSMatrix.git"
+  }
+}

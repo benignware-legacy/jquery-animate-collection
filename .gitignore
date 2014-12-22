@@ -26,3 +26,19 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Eclipse
+.project
+
+# Mac OS
+.DS_Store
+*/.DS_Store
+
+# GFM Markdown preview
+.README.md.html
+
+# Samples libs
+samples/vendor
+
+# Temp
+tmp

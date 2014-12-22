@@ -1,0 +1,17 @@
+{
+  "boss": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "expr": true,
+  "immed": true,
+  "noarg": true,
+  "onevar": false,
+  "smarttabs": true,
+  "unused": true,
+  "node": true, 
+  "globals": {
+    "jQuery": true, 
+    "CSSUtil": true
+  }
+}
